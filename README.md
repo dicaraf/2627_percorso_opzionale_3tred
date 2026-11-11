@@ -1,5 +1,8 @@
 # Template di base — Il tuo videogioco con Phaser.js
 
+> ⚠️ Installare Visual Studio Code e le estensioni 1) Live Server 2) Live Share
+> Installare poi Tiled (https://www.mapeditor.org/) e TexturePacker (http://www.codeandweb.com/texturepacker). Per disegnare i personaggi https://www.piskelapp.com/ 
+
 Questo è il punto di partenza del vostro progetto. Il gioco **funziona già**:
 aprite `index.html` con **Live Server** e giocateci prima di leggere oltre.
 
